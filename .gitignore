@@ -1,0 +1,13 @@
+*.tar.gz
+*.xdb
+*.log
+*.tmp
+*.bak
+*.har
+/debug/
+geo-feed
+geo/
+ipv4_source.txt
+release-dist/
+*askpass*
+.env*
