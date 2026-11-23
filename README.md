@@ -1,5 +1,7 @@
 # 下载助手 · XBOXDL-Assist-KShare
 
+> **兼容性提醒：v0.0.1 针对梅林 380 的 1.0 代软件中心；使用 1.5 代 API 的软件中心（如 arm384/386、hnd/axhnd）请勿安装本插件。** 这里的“1.5 代”指软件中心的接口代际，并非页面显示的版本号。详见 [Koolshare 软件中心说明](https://github.com/koolshare/rogsoft#开发须知)。
+
 下载助手是一个装在 Koolshare 软件中心里的路由器插件。它帮助家里的 Xbox 和 Windows 设备寻找合适的下载节点，让下载请求走你选择的线路。你可以先使用自动选择，也可以自己查询和测试节点。
 
 ![下载助手插件界面](plugin-preview.png)
